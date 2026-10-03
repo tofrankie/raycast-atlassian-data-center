@@ -1,5 +1,8 @@
 # Atlassian Data Center (Self-Hosted)
 
+> [!WARNING]
+> This project is no longer maintained and has been migrated to [tofrankie/raycast-collection](https://github.com/tofrankie/raycast-collection/tree/main/extensions/atlassian-data-center).
+
 A Raycast extension for self-hosted Atlassian products to search and manage Confluence contents and Jira issues, with CQL/JQL syntax support.
 
 ## ⚙️ Setup Required
